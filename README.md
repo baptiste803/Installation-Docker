@@ -4,5 +4,5 @@ Le fichier dockinst.sh s'inspire du fichier d'installation officiel disponible s
 
 
 # Docker-Installation
-This repository contain the installation file of docker for each version of ubuntu.
+This repository contain the installation file of docker engine for each version of ubuntu.
 The dockinst.sh files take source from the official installation file available on the docker website : https://docs.docker.com/engine/install/ubuntu/
