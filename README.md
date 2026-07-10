@@ -1,6 +1,6 @@
 # Installation-Docker
 Ce répertoire contient le fichier d'installation de docker engine pour toutes les version de ubuntu.
-Le fichier dockinst.sh s'inspire du fichier d'installation officiel disponible sur le site docker :                           https://docs.docker.com/engine/install/ubuntu/
+Le fichier dockinst.sh s'inspire du fichier d'installation officiel disponible sur le site docker : https://docs.docker.com/engine/install/ubuntu/
 
 
 # Docker-Installation
