@@ -23,7 +23,8 @@ chargement() {
 # installation and erase them in case of re-installation
 if [ -e /etc/apt/keyrings/docker.asc ]; then
 	rm -rf /etc/apt/keyrings/docker.asc
-elif [ -e /etc/apt/sources.list.d/docker.sources ]; then
+fi
+if [ -e /etc/apt/sources.list.d/docker.sources ]; then
 	rm -rf /etc/apt/sources.list.d/docker.sources
 fi
 
